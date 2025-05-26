@@ -1,0 +1,24 @@
+To Do List
+
+- Make a form where someone can type a task 
+- Make a list to store tasks
+
+When someone types in the box and hits Enter or clicks Add:
+  - Take what they typed
+  - Add it to the list of tasks
+
+Show all tasks in a list:
+  - For each task, show the text
+  - A button to edit the text
+  - A trash icon to delete it
+
+If user clicks Edit:
+  - Let them change the task
+  - Save new version
+
+If user clicks Delete:
+  - Remove task from list
+
+
+
+
