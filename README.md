@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## First Change I Made To the Wednesday App
 
 In the project directory, you can run:
 
